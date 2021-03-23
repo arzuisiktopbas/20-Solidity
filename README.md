@@ -11,3 +11,6 @@
 * Level Three is a [DeferredEquityPlan](https://github.com/arzuisiktopbas/20-Solidity/blob/main/DeferredEquityPlan.sol) that models traditional company stock plans. This contract automatically manages 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
 ![defered](https://github.com/arzuisiktopbas/20-Solidity/blob/main/Images/deferredequity.png)
+
+
+# As we can see all tree steps are successfuly excecuted
