@@ -13,4 +13,4 @@
 ![defered](https://github.com/arzuisiktopbas/20-Solidity/blob/main/Images/deferredequity.png)
 
 
-# As we can see all tree steps are successfuly excecuted
+# As we can see all three steps are successfuly excecuted
